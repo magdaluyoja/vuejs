@@ -9,5 +9,6 @@
 	<li><a href="/vuejs/demos/computed-properties.php">Computed Properties</a></li>
 	<li><a href="/vuejs/demos/components.php">Components</a></li>
 	<li><a href="/vuejs/demos/communicating-events.php">Communicating Events</a></li>
+	<li><a href="/vuejs/demos/forms.php">Forms</a></li>
 </ul>
 <div style="clear: both;display: block;width:100%"></div>

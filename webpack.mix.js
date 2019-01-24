@@ -20,6 +20,7 @@ mix.js('assets/src/js/intro.js', 'assets/dist/js/intro.min.js')
    .js('assets/src/js/computed-properties.js', 'assets/dist/js/computed-properties.min.js')
    .js('assets/src/js/components.js', 'assets/dist/js/components.min.js')
    .js('assets/src/js/communicating-events.js', 'assets/dist/js/communicating-events.min.js')
+   .js('assets/src/js/forms.js', 'assets/dist/js/forms.min.js')
 
 
    .styles('assets/src/css/styles.css','assets/dist/css/styles.min.css');
