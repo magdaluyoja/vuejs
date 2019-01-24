@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>VueJs - Intro</title>
+	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="../assets/dist/css/styles.min.css">
 </head>
 <body>
