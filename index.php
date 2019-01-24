@@ -2,11 +2,9 @@
 <html>
 <head>
 	<title>VueJs</title>
+	<link rel="stylesheet" type="text/css" href="assets/dist/css/styles.min.css">
 </head>
 <body>
-	<div id="app">
-	  	<p>{{ message }}</p>
-	</div>
-	<script src="assets/dist/js/app.min.js"></script>
+	<?php include('nav.php'); ?>
 </body>
 </html>

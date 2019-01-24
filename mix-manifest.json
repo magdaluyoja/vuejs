@@ -1,3 +1,12 @@
 {
-    "/assets/dist/js/app.min.js": "/assets/dist/js/app.min.js"
+    "/assets/dist/js/bind.min.js": "/assets/dist/js/bind.min.js",
+    "/assets/dist/js/class-style-binding.min.js": "/assets/dist/js/class-style-binding.min.js",
+    "/assets/dist/js/communicating-events.min.js": "/assets/dist/js/communicating-events.min.js",
+    "/assets/dist/js/components.min.js": "/assets/dist/js/components.min.js",
+    "/assets/dist/js/computed-properties.min.js": "/assets/dist/js/computed-properties.min.js",
+    "/assets/dist/js/conditional-rendering.min.js": "/assets/dist/js/conditional-rendering.min.js",
+    "/assets/dist/js/event-handling.min.js": "/assets/dist/js/event-handling.min.js",
+    "/assets/dist/js/intro.min.js": "/assets/dist/js/intro.min.js",
+    "/assets/dist/js/list-rendering.min.js": "/assets/dist/js/list-rendering.min.js",
+    "/assets/dist/css/styles.min.css": "/assets/dist/css/styles.min.css"
 }
